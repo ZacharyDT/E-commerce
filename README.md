@@ -22,3 +22,5 @@ Entity Framework: ORM for database interactions.
 Bootstrap: For responsive front-end design.
 
 SQL Server: Database management system.
+
+![painful](https://github.com/user-attachments/assets/63583ebd-6340-48cc-a496-fc67be55d399)
