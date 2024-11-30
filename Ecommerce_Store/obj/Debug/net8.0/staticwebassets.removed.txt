@@ -1,0 +1,2 @@
+C:\Users\zackh\Documents\Ecommerce Store\Ecommerce_StoreSn\Ecommerce_Store\wwwroot\css\site.css
+C:\Users\zackh\Documents\Ecommerce Store\Ecommerce_StoreSn\Ecommerce_Store\wwwroot\js\site.js
