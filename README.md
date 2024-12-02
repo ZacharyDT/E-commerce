@@ -24,3 +24,9 @@ Bootstrap: For responsive front-end design.
 SQL Server: Database management system.
 
 ![painful](https://github.com/user-attachments/assets/63583ebd-6340-48cc-a496-fc67be55d399)
+
+this one is more so for my own learning
+
+![image](https://github.com/user-attachments/assets/9aa42a06-9371-42e5-8235-4ab000d949b2)
+
+
